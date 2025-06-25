@@ -1,0 +1,20 @@
+[
+    {
+        "domain": "daquan.yl1001.com",
+        "httpOnly": true,
+        "name": "sl_jwt_session",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ktlzDGrwQGiTodGGL6gjWg=="
+    },
+    {
+        "domain": "daquan.yl1001.com",
+        "httpOnly": false,
+        "name": "token",
+        "path": "/",
+        "sameSite": "None",
+        "secure": false,
+        "value": "eyJhbGciOiJIUzI1NiJ9.eyJib2R5Ijoie1widGlja2V0XCI6XCJqdTJ0a2NRZFBNNEFIbk1KXCIsXCJwZXJzb25JZFwiOjI1MDc3ODQ5fSIsImV4cCI6MTc0ODk5OTAzOX0.DBIBXDHPidNrY1muQYS_-NufUqQBh9YJRLjF94XvvuU"
+    }
+]
